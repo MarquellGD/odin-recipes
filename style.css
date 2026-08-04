@@ -1,0 +1,26 @@
+body {
+    background-color: #F4EFEB;
+    color: #2B2625;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 300px;
+}
+
+div {
+    margin-top: 50px;
+}
+
+.food-overview {
+    /* width: 200px;
+    height: 200px;
+    margin: 0 200px;
+    box-sizing: border-box; */
+    text-align: center;
+}
+
+.recipe-title {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
