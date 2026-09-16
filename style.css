@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+} 
+
 body {
     background-color: #F4EFEB;
     color: #2B2625;
@@ -12,15 +16,12 @@ div {
     margin-top: 50px;
 }
 
-.food-overview {
-    /* width: 200px;
-    height: 200px;
-    margin: 0 200px;
-    box-sizing: border-box; */
-    text-align: center;
-}
-
 .recipe-title {
     font-family: 'Pacifico', cursive;
-    text-align: center;
+    margin: 20px auto;
+    width: 1000px;
+}
+
+.main-page-title {
+    font-family: 'Pacifico', cursive;
 }
